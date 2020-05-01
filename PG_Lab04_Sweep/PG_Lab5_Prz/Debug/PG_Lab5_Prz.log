@@ -1,0 +1,6 @@
+﻿  PG_Lab5_Prz.cpp
+c:\users\i5\documents\visual studio 2015\projects\pg_lab5_prz\pg_lab5_prz\pg_lab5_prz.cpp(94): warning C4018: '>': signed/unsigned mismatch
+c:\users\i5\documents\visual studio 2015\projects\pg_lab5_prz\pg_lab5_prz\pg_lab5_prz.cpp(238): warning C4018: '<': signed/unsigned mismatch
+c:\users\i5\documents\visual studio 2015\projects\pg_lab5_prz\pg_lab5_prz\pg_lab5_prz.cpp(242): warning C4018: '<': signed/unsigned mismatch
+  PG_Lab5_Prz.vcxproj -> C:\Users\i5\Documents\Visual Studio 2015\Projects\PG_Lab5_Prz\Debug\PG_Lab5_Prz.exe
+  PG_Lab5_Prz.vcxproj -> C:\Users\i5\Documents\Visual Studio 2015\Projects\PG_Lab5_Prz\Debug\PG_Lab5_Prz.pdb (Full PDB)
